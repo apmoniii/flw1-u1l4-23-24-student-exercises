@@ -13,10 +13,10 @@
 
 Basic syntax:
 ```javascript
-if (condition) {
-   // code to execute if condition is true
+if (age < 18) {
+   console.log("you are legal ")
 } else {
-   // code to execute if condition is false
+  console.log("Sorry. Too young!");
 }
 ```
 
